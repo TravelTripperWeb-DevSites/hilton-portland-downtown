@@ -1,0 +1,16 @@
+---
+_hotel_id: HIL310
+_portal_id: required-but-empty
+_root_path: https://qa5.ttaws.com/rt
+latitude: 45.5174
+longitude: -122.67952
+name: Hilton Portland Downtown
+email: steffan@traveltripper.io
+phone_number: 001-111-1111
+address:
+  street1: 921 SW 6th Ave
+  street2: ''
+  state: Oregon
+  city: Portland
+  country: United States
+  zip_code: '97204'
